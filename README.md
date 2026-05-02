@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Moorsahaul Islam Noor</h1>
-<h3 align="center">Modern Frontend Development (React + Tailwind)</h3>
+<h3 align="center">Modern Frontend Development (React + NextJs)</h3>
 <h3 align="center">Portfolio: https://md-moorsahaul-islam-noor.vercel.app/</h3>
 
 # 💫 About Me:
