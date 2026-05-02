@@ -2,7 +2,7 @@
 <h3 align="center">Modern Frontend Development (React + Tailwind)</h3>
 <h3 align="center">Portfolio: https://md-moorsahaul-islam-noor.vercel.app/</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **html,css,tailwind,javascript,react**
 
