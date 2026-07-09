@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Moorsahaul Islam Noor</h1>
-<h3 align="center">Modern Frontend Development (React + NextJs)</h3>
+<h3 align="center">Modern FullStack Development (Mongodb + Expressjs + React + NextJs)</h3>
 <h3 align="center">Portfolio: https://md-moorsahaul-islam-noor.vercel.app/</h3>
 
 # 💫 About Me:
-Frontend developer specializing in React and Next.js.  <br>Experienced in building responsive UI, component-based architecture, and modern web interfaces.
+Full Stack developer specializing in Mongodb Express React and Next.js.  <br>Experienced in building responsive UI, component-based architecture, and modern web interfaces.
 
 
 ## 🌐 Socials:
