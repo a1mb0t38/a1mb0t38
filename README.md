@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Moorsahaul Islam Noor</h1>
 <h3 align="center">Modern FullStack Development (Mongodb + Expressjs + React + NextJs)</h3>
-<h3 align="center">Portfolio: [https://md-moorsahaul-islam-noor.vercel.app/](https://moorsahaul-islam-noor.vercel.app/)</h3>
+<h3 align="center">Portfolio: https://moorsahaul-islam-noor.vercel.app/</h3>
 
 # 💫 About Me:
 Hi, I'm Noor, a Full Stack Web Developer from Bangladesh.<br><br>I recently completed my Full Stack Web Development journey, where I learned HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Express.js, MongoDB, Better Auth, and Stripe integration. Along the way, I built practical applications, including a healthcare appointment booking platform.<br><br>I'm currently focused on improving my Data Structures & Algorithms skills by solving LeetCode problems every day and preparing for software engineering interviews.<br><br>I enjoy learning new technologies, building clean user interfaces, and solving real-world problems through code.
